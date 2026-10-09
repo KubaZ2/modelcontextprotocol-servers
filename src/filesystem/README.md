@@ -2,6 +2,9 @@
 
 Node.js server implementing Model Context Protocol (MCP) for filesystem operations.
 
+> [!NOTE]
+> This is a reference implementation. For production use, consider [agentic-filesystem-mcp](https://github.com/KubaZ2/agentic-filesystem-mcp) instead.
+
 Published on npm as [`@modelcontextprotocol/server-filesystem`](https://www.npmjs.com/package/@modelcontextprotocol/server-filesystem).
 
 ## Features
